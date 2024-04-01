@@ -1,16 +1,39 @@
-### Hi there 👋
+#### Curiosidade / Determinação / Impacto
 
-<!--
-**lorenabarradas/lorenabarradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lorena Barradas
 
-Here are some ideas to get you started:
+## Documentando minha jornada de aprendizado de FullStack Developer
+### JavaScript · React · Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Meu foco é criar soluções que ultrapassem os limites do visual e do código, proporcionando experiências memoráveis e intuitivas para os usuários, gerando satisfação genuína entre clientes, e impulsionando resultados efetivos aos negócios.
+
+Extrovertida e habilidosa em construir conexões autênticas, além de ser uma comunicadora e facilitadora eficaz. Meus interesses em planejamento pessoal, processos criativos e minimalismo refletem minha busca por uma vida simples e significativa, onde acredito no nosso poder de criar revoluções.
+
+### Educação
+- Especialista em Marketing Digital Negócios e Estratégias
+- Capacitação em Inovação Social
+
+### Habilidades
+
+- Design de Serviços
+- UX/UI Design
+- UX Design for Learning
+- Gestão de Produto
+- Estratégia de Marca
+- Gestão de Projetos
+- Workshop Facilitação
+- Gestão de Comunidade
+- Planejamento Estratégico
+
+### Ferramentas
+
+- Figma
+- Canva
+- WordPress
+- Elementor Pro
+- Mídias Sociais
+- Miro - Milanote
+- Notion - Trello
+- Google Workspace
+- Plataformas E-learning
