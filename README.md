@@ -1,3 +1,4 @@
+![LinkedIn cover](https://github.com/lorenabarradas/lorenabarradas/assets/160586362/bae6bba1-3b0e-462b-850a-e848d5a249ce)
 #### Curiosidade / Determinação / Impacto
 
 # Lorena Barradas
