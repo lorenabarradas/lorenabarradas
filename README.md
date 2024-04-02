@@ -3,7 +3,7 @@
 
 # Lorena Barradas
 
-## Documentando minha jornada de aprendizado de FullStack Developer
+## Documentando minha jornada de aprendizado como FullStack Developer
 ### JavaScript · React · Node.js
 
 
